@@ -5,8 +5,13 @@ description: 'This resource contains 4 problems, one on "Perfectly Hiding Commit
   "Proofs
 
   of Knowledge".'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-875-cryptography-and-cryptanalysis-spring-2005/24b310f1e7764dc4dda2f037cae8f5f7_ho11_ps6.pdf
+file: /media/courses/6-875-cryptography-and-cryptanalysis-spring-2005/24b310f1e7764dc4dda2f037cae8f5f7_ho11_ps6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ho11_ps6.pdf
 uid: 24b310f1-e776-4dc4-dda2-f037cae8f5f7
