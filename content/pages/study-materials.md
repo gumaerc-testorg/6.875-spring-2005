@@ -10,4 +10,4 @@ Useful Notation ([PDF]({{< baseurl >}}/resources/ho3))
 
 Equivalence of GM and Semantic Security ([PDF]({{< baseurl >}}/resources/ho6))
 
-LaTeX Template for Problem Set 1 ([TEX](/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/study-materials/template1.tex))
+LaTeX Template for Problem Set 1 ([TEX]({{< baseurl >}}/resources/template1))

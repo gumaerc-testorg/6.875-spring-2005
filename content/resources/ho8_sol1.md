@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef0236fd-b472-9654-fabc-3c3b9e7846e9
 resourcetype: Document
 title: ho8_sol1.pdf
 uid: 29a52384-d896-8510-7dc7-b2bda1dbaf0a

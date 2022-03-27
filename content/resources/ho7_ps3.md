@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef0236fd-b472-9654-fabc-3c3b9e7846e9
 resourcetype: Document
 title: ho7_ps3.pdf
 uid: b9b4c7ae-2f67-a90e-1779-70d996123f58

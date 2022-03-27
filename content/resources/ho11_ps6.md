@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ef0236fd-b472-9654-fabc-3c3b9e7846e9
 resourcetype: Document
 title: ho11_ps6.pdf
 uid: 24b310f1-e776-4dc4-dda2-f037cae8f5f7

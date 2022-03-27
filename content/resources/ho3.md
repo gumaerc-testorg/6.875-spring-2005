@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 67ae96bf-1a39-ee64-214d-7a182c6c0d6f
 resourcetype: Document
 title: ho3.pdf
 uid: 1503d986-6ab5-75c0-3225-71c5133ed5e4
