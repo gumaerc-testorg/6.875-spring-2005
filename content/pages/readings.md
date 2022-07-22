@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for course readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eded3bac-e34a-92ae-3374-df5952d4c73e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Suggested Reading
