@@ -4,6 +4,7 @@ description: 'This resource contains follwing topics: GM Security = semantic Sec
 file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/1f4e97550be5f6a9ffac1e3c87816c89_ho6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains follwing topics: GM Security = semantic Security.
-

@@ -7,6 +7,7 @@ file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/768b7e7c19075dda
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains four problems, one on "Fun With Pseudorandom Functions", other on "Another Definition of Pseudorandom Functions", other on "Private Key Encryption", and last on "An Active Attack on BlumGoldwasser".
-

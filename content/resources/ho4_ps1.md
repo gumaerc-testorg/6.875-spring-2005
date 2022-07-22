@@ -6,6 +6,7 @@ file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/97f1e89ae995026c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 5 problems, one on "Prime Discrete Logarithm Problem", one on "Factoring", and one on "Factoring and OWF". Problem 5 is optional.
-

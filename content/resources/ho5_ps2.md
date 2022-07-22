@@ -6,6 +6,7 @@ file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/cf4150e9eb87f56a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 4 problems, one on "OWF Reductions", one on "GM Implies OWF", one on "Notions of OneBit Security", and one on "Ciphertext Expansion".
-

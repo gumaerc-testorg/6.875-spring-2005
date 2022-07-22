@@ -9,6 +9,7 @@ file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/24b310f1e7764dc4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource contains 4 problems, one on "Perfectly Hiding Commitment", one on "Zero-Knowledge in Parallel", one on "Hiding and Binding", and the last on "Proofs
 of Knowledge".
-
