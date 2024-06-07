@@ -4,6 +4,7 @@ description: This resource contains solutions to problem set 1 problems, one on 
   Discrete Logarithm Problem", one on "Factoring", and one on "Factoring and OWF".
   Problem 5 is optional.
 file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/29a52384d89685107dc7b2bda1dbaf0a_ho8_sol1.pdf
+file_size: 123946
 file_type: application/pdf
 learning_resource_types:
 - Assignments
