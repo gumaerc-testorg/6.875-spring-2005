@@ -6,6 +6,7 @@ description: 'This resource contains 4 problems, one on "Perfectly Hiding Commit
 
   of Knowledge".'
 file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/24b310f1e7764dc4dda2f037cae8f5f7_ho11_ps6.pdf
+file_size: 124223
 file_type: application/pdf
 learning_resource_types:
 - Assignments

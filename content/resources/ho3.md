@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notations, experiments, output of experiments,
   example, and non-uniform families.
 file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/1503d9866ab575c0322571c5133ed5e4_ho3.pdf
+file_size: 95716
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

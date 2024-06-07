@@ -4,6 +4,7 @@ description: This resource contains four problems, one on "Fun With Pseudorandom
   other on "Another Definition of Pseudorandom Functions", other on "Private Key Encryption",
   and last on "An Active Attack on BlumGoldwasser".
 file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/768b7e7c19075dda1ba7dbd257431308_ho10_ps5.pdf
+file_size: 124054
 file_type: application/pdf
 learning_resource_types:
 - Assignments
