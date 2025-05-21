@@ -6,7 +6,7 @@ description: 'This resource contains 4 problems, one on "Yao Security", one on "
   Message Spaces", and one on "Active
 
   Adversaries".'
-file: /ol-ocw-studio-app/courses/6-875-cryptography-and-cryptanalysis-spring-2005/b9b4c7ae2f67a90e177970d996123f58_ho7_ps3.pdf
+file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/b9b4c7ae2f67a90e177970d996123f58_ho7_ps3.pdf
 file_size: 129874
 file_type: application/pdf
 learning_resource_types:
