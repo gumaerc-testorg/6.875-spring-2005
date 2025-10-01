@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems, one on "PRG = OWF", one on "PRGs and
   Permutations", one on "Composing PRGs", and one on "Unpredictability = Indistinguishability".
-file: /courses/6-875-cryptography-and-cryptanalysis-spring-2005/d31e4b811131d2b51edd45002212fb61_ho9_ps4.pdf
+file: /ol-ocw-studio-app/courses/6-875-cryptography-and-cryptanalysis-spring-2005/d31e4b811131d2b51edd45002212fb61_ho9_ps4.pdf
 file_size: 114299
 file_type: application/pdf
 learning_resource_types:
